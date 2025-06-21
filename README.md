@@ -13,7 +13,11 @@ Using [Teachable Machine by Google](https://teachablemachine.withgoogle.com/), t
 - **Objective**: Detect emotions (Happy vs Sad) using a custom-trained model
 
 ---
+## 📸 Preview
 
+![Screenshot](Preview.png)
+
+---
 ## 🧠 Model Overview
 
 - **Model Type**: Image Classification (via Webcam)
